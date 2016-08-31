@@ -1,1 +1,1 @@
-Just a readme
+simple script to test remote docker enviroment
